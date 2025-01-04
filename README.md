@@ -1,6 +1,6 @@
-## QR Code Generator
+# QR Code Generator
 
-# Try : https://sanjith-qr-generator.netlify.app/
+## Try : https://sanjith-qr-generator.netlify.app/
 
 A user-friendly QR code generator web app built using React, JavaScript, CSS, and HTML. This app allows users to easily create and download custom QR codes for their data with adjustable size options.
 
